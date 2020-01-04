@@ -1,0 +1,24 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "simple API with MySQL",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musthofa06/expressjs.git"
+  },
+  "author": "musthofa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/musthofa06/expressjs/issues"
+  },
+  "homepage": "https://github.com/musthofa06/expressjs#readme"
+}
